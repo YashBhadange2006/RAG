@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+python-dotenv
+pypdf
+chromadb
+sentence-transformers
+groq
+pytest
+httpx

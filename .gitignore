@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local RAG data and uploaded documents
+data/chroma/
+data/uploads/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
