@@ -11,3 +11,5 @@ sentence-transformers
 groq
 pytest
 httpx
+streamlit
+requests
