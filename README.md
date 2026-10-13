@@ -39,8 +39,9 @@ The application allows users to upload documents, inspect their chunks, ask ques
 
 The following flowchart illustrates the document ingestion pipeline, vector storage, query retrieval, evidence filtering, and answer generation.
 
-![Reliable RAG API Architecture](images/Flow_Chart.png)
-
+<p align="center">
+  <img src="images/Flow_Chart.png" alt="Reliable RAG API Architecture" width="420">
+</p>
 ### Workflow
 
 **Document ingestion**
