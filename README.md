@@ -113,7 +113,7 @@ Create a Groq API key from the [Groq Console](https://console.groq.com/keys).
 ### 1. Clone the repository
 
 ```powershell
-git clone <https://github.com/YashBhadange2006/RAG.git>
+git clone https://github.com/YashBhadange2006/RAG.git
 cd RAG
 ```
 
